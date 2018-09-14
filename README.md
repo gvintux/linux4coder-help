@@ -14,7 +14,7 @@ Contains help for `linux4coder`
 
     or
 
-* run `w3m html/<filename>.html` to get help
+* run `w3m html/<filename>.md.html` to get help
 
 ## Included help pages
 
