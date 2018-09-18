@@ -10,12 +10,12 @@ Common linux commands for files & tasks management and text editing
 
 * `cd` - change current directory
 
-	```bash
+	```shell
 # switch to cats directory in home directory
 ~$ cd cats
 ~/cats$
 	```
-	```bash
+	```shell
 # switch to parent directory
 ~/cats$ cd ..
 ~$
@@ -23,7 +23,7 @@ Common linux commands for files & tasks management and text editing
 
 * `pwd` - print current directory
 
-	```bash
+	```shell
 ~/help$ pwd
 /home/student/help
 	```
