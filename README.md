@@ -26,7 +26,7 @@ Contains help for `linux4coder`
 
 * **MAKE** - `make` simple build tool
 
-* **TEST** - test frameworks
+* **GTF** - Google test framework
 
 * **VIM** - `vim` advanced text editor
 

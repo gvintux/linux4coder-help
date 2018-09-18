@@ -2,7 +2,7 @@
 
 ## Description
 
-Valgrind is an program analyze tool
+Valgrind is a program analyze tool
 
 ## Preparations
 
