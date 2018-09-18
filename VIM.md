@@ -22,4 +22,4 @@ run `vim` or `vim <filename>.<ext>`
 
 ## Notes
 
-*run `vimtutor` for practice*
+run `vimtutor` for practice
